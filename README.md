@@ -8,3 +8,4 @@ Second line
 3. Файлы crash.log, override.tf.json, override.tf, terraformrc
 4. Файлы попадающие под маску: *_override.tf.json, *_override.tf
 
+Строка из задания с веткой fix
